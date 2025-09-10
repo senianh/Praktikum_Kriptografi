@@ -88,7 +88,7 @@ Key matrix:
 
 ---
 
-**4.Test Otomatis** 
+**4. Test Otomatis** 
 
 === Enkripsi ===
 
@@ -120,9 +120,10 @@ Kunci ditemukan:
 Anda keluar dari Program, program akan berhenti berjalan.
 
 ---
-## Contoh Penggunaan
+## Catatan
 - Program mendukung padding otomatis dengan huruf X jika panjang plaintext tidak sesuai ordo matriks.
 - Invers matriks dihitung menggunakan aritmatika modulo 26.
+
 
 
 
