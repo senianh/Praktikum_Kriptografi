@@ -52,11 +52,13 @@ Masukkan plaintext: PYTHON
 
 Ciphertext: PUTVUP
 
+
 **2. Dekripsi** 
 
 Masukkan ciphertext: PUTVUP
 
 Plaintext: PYTHON
+
 
 **3. Cari Kunci** 
 
@@ -68,7 +70,9 @@ Ordo matriks kunci (contoh 2): 2
 
 Key matrix:
 [7, 6]
+
 [2, 5]
+
 
 **4.Test Otomatis** 
 
@@ -77,6 +81,7 @@ Key matrix:
 Asal Plaintext : PYTHON
 
 Hasil Ciphertext: PUTVUP
+
 
 === Dekripsi ===
 
@@ -92,14 +97,17 @@ Ciphertext: PUTVUP
 
 Kunci ditemukan:
 [7, 6]
+
 [2, 5]
 
 **5. Keluar.**
+Anda keluar dari Program, program akan berhenti berjalan.
 
 ---
 ## Contoh Penggunaan
 - Program mendukung padding otomatis dengan huruf X jika panjang plaintext tidak sesuai ordo matriks.
 - Invers matriks dihitung menggunakan aritmatika modulo 26.
+
 
 
 
