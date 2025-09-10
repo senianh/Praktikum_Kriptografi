@@ -1,2 +1,2 @@
-**Senia Nur Hasanah - 140810230021
-**Praktikum Kriptografi
+#PRAKTIKUM KRIPTOGRAFI
+Senia Nur Hasanah - 140810230021
