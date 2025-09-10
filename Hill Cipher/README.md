@@ -45,34 +45,51 @@ Implementasi Python biasanya mencakup:
 4. Test otomatis (PYTHON -> PUTVUP)
 0. Keluar
 Pilih menu :
+
 **1. Enkripsi** 
+
 Masukkan plaintext: PYTHON
+
 Ciphertext: PUTVUP
 
 **2. Dekripsi** 
+
 Masukkan ciphertext: PUTVUP
+
 Plaintext: PYTHON
 
 **3. Cari Kunci** 
+
 Masukkan plaintext: PYTHON
+
 Masukkan ciphertext: PUTVUP 
+
 Ordo matriks kunci (contoh 2): 2
+
 Key matrix:
 [7, 6]
 [2, 5]
 
 **4.Test Otomatis** 
+
 === Enkripsi ===
+
 Asal Plaintext : PYTHON
+
 Hasil Ciphertext: PUTVUP
 
 === Dekripsi ===
+
 Asal Ciphertext: PUTVUP
+
 Hasil Plaintext : PYTHON
 
 === Cari Kunci ===
+
 Plaintext : PYTHON
+
 Ciphertext: PUTVUP
+
 Kunci ditemukan:
 [7, 6]
 [2, 5]
@@ -83,6 +100,7 @@ Kunci ditemukan:
 ## Contoh Penggunaan
 - Program mendukung padding otomatis dengan huruf X jika panjang plaintext tidak sesuai ordo matriks.
 - Invers matriks dihitung menggunakan aritmatika modulo 26.
+
 
 
 
