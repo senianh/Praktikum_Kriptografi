@@ -35,6 +35,7 @@ Implementasi Python biasanya mencakup:
 🕵️ **3. Cari Kunci** input plaintext & ciphertext → tampilkan matriks kunci.
 
 ⚡ **4.Test Otomatis** menjalankan contoh kasus PYTHON  → PUTVUP
+
 📤 **5. Keluar.**
 
 ---
@@ -108,6 +109,7 @@ Anda keluar dari Program, program akan berhenti berjalan.
 ## Contoh Penggunaan
 - Program mendukung padding otomatis dengan huruf X jika panjang plaintext tidak sesuai ordo matriks.
 - Invers matriks dihitung menggunakan aritmatika modulo 26.
+
 
 
 
