@@ -36,9 +36,6 @@ Implementasi Python biasanya mencakup:
 ⚡ **4.Test Otomatis** menjalankan contoh kasus PYTHON  → PUTVUP
 📤 **5. Keluar.**
 
-Mendukung padding otomatis (`X`) jika panjang plaintext tidak sesuai ordo matriks  
-Invers matriks dihitung menggunakan **aritmatika modulo 26**
-
 ---
 ## Contoh Penggunaan
 ===== Hill Cipher Menu =====
@@ -86,4 +83,5 @@ Kunci ditemukan:
 ## Contoh Penggunaan
 - Program mendukung padding otomatis dengan huruf X jika panjang plaintext tidak sesuai ordo matriks.
 - Invers matriks dihitung menggunakan aritmatika modulo 26.
+
 
