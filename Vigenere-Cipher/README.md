@@ -1,5 +1,5 @@
 
-# 🔐 Vigenere 
+# 🔐 Vigenere Cipher
 
 
 Vigenere Cipher merupakan sebuah bentuk polyalphabetic cipher, dimana akan dilakukan beberapa substitusi alfabet. Proses enkripsi manual umumnya memanfaatkan Vigenere Table/Square.
