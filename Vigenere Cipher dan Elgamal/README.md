@@ -53,6 +53,8 @@ Algoritma Elgamal terdiri dari 3 proses yaitu pembentukan kunci, enkripsi, dan d
 ## 📝 Contoh Penggunaan
 **1. Vigenere Cipher**
 
+----
+
 === MENU KRIPTOGRAFI ===
 
 1. Vigenere Cipher
@@ -102,7 +104,7 @@ Tabel Proses Enkripsi Vigenere:
 
 Ciphertext: ULVRBYAECNS
 
-
+---
 
 Tabel Proses Dekripsi Vigenere:
 
@@ -126,6 +128,10 @@ Hasil Dekripsi: KRIPTOGRAFI
 
 
 ---
+**1. ElGamal**
+
+---
+
 === MENU KRIPTOGRAFI ===
 
 1. Vigenere Cipher
@@ -139,16 +145,19 @@ Pilih menu:
 Input: 2
 
 ---
---- ElGamal Cipher ---
+--- ElGamal ---
 
 1. Enkripsi
 
 2. Dekripsi
+
 3. Enkripsi + Dekripsi
 
 0. Kembali
 
 Pilih: 3
+
+----
 
 Masukkan bilangan prima p: 37
 
@@ -160,13 +169,13 @@ Masukkan ephemeral key k: 15
 
 Masukkan plaintext (huruf besar A-Z): EZKRIPTOGRAFI
 
-
+---
 
 Kunci publik: p=37, g=3, y=9
 
 Shared value y^k mod p dihitung sekali: 9^15 mod 37 = 10
 
-
+---
 
 === Enkripsi ===
 
@@ -194,6 +203,7 @@ Jawaban Akhir (Ciphertext):
 
 (11, 3) (11, 28) (11, 26) (11, 22) (11, 6) (11, 2) (11, 5) (11, 29) (11, 23) (11, 22) (11, 0) (11, 13) (11, 6)
 
+---
 
 === Dekripsi ===
 
