@@ -37,13 +37,17 @@ Decode kembali ke teks
 ---
 
 ## 📂 Struktur Folder
-│
-├── lsb.py
-├── input.png
-├── stego_output.png
-├── screenshot_encode.png
-├── screenshot_decode.png
-└── README.md
+- lsb.py
+
+- input.png
+
+- stego_output.png
+
+- screenshot_encode.png
+
+- screenshot_decode.png
+
+- README.md
 
 
 
@@ -59,17 +63,33 @@ Decode kembali ke teks
 ---
 # Encode
 Pilih menu (1/2): 1
+
+
 Masukkan nama file gambar (misal: input.png): input.png
+
+
 Masukkan pesan yang ingin disembunyikan : Halo Dunia dari Senia!
+
+
 Masukkan nama file output (misal: stego.png): stego_output.png
+
+
 ✅ Pesan berhasil disembunyikan dalam: stego_output.png
+
+
 
 ---
 # Decode
 Pilih menu (1/2): 2
+
+
 Masukkan nama file gambar hasil encode : stego_output.png
 
+
+
 🔍 Pesan rahasia tersembunyi :
+
+
 Halo Dunia dari Senia!
 
 
